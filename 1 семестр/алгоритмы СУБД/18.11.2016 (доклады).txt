@@ -1,0 +1,3 @@
+Eventual Consistency
+
+1. Eventual Consistency: How Soon Is Eventual?
